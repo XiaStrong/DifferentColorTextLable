@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1558AC291BF9B7260056BCB7 /* UILabel+XQAttribute.m in Sources */ = {isa = PBXBuildFile; fileRef = 1558AC281BF9B7260056BCB7 /* UILabel+XQAttribute.m */; };
 		15A30D061B5895E200D53BC3 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 15A30D051B5895E200D53BC3 /* main.m */; };
 		15A30D091B5895E200D53BC3 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 15A30D081B5895E200D53BC3 /* AppDelegate.m */; };
 		15A30D0F1B5895E200D53BC3 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 15A30D0D1B5895E200D53BC3 /* Main.storyboard */; };
@@ -28,6 +29,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		1558AC271BF9B7260056BCB7 /* UILabel+XQAttribute.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UILabel+XQAttribute.h"; sourceTree = "<group>"; };
+		1558AC281BF9B7260056BCB7 /* UILabel+XQAttribute.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UILabel+XQAttribute.m"; sourceTree = "<group>"; };
 		15A30D001B5895E200D53BC3 /* DIfferentColorLableText.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DIfferentColorLableText.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		15A30D041B5895E200D53BC3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		15A30D051B5895E200D53BC3 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
@@ -87,6 +90,8 @@
 				15A30D081B5895E200D53BC3 /* AppDelegate.m */,
 				15A30D291B58960500D53BC3 /* ViewController.h */,
 				15A30D2A1B58960500D53BC3 /* ViewController.m */,
+				1558AC271BF9B7260056BCB7 /* UILabel+XQAttribute.h */,
+				1558AC281BF9B7260056BCB7 /* UILabel+XQAttribute.m */,
 				15A30D2B1B58960500D53BC3 /* ViewController.xib */,
 				15A30D0D1B5895E200D53BC3 /* Main.storyboard */,
 				15A30D101B5895E200D53BC3 /* Images.xcassets */,
@@ -225,6 +230,7 @@
 			files = (
 				15A30D2C1B58960500D53BC3 /* ViewController.m in Sources */,
 				15A30D091B5895E200D53BC3 /* AppDelegate.m in Sources */,
+				1558AC291BF9B7260056BCB7 /* UILabel+XQAttribute.m in Sources */,
 				15A30D061B5895E200D53BC3 /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -420,6 +426,7 @@
 				15A30D251B5895E200D53BC3 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		15A30D261B5895E200D53BC3 /* Build configuration list for PBXNativeTarget "DIfferentColorLableTextTests" */ = {
 			isa = XCConfigurationList;
@@ -428,6 +435,7 @@
 				15A30D281B5895E200D53BC3 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

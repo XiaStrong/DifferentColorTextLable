@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>4C850974-DCAD-4676-95B3-6248D5D1B4A1</string>
+	<key>IDESourceControlProjectName</key>
+	<string>DIfferentColorLableText</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>4B7DA7E8F5510549E2D8572C5193645709EBC6B4</key>
+		<string>https://github.com/XiaStrong/DifferentColorTextLable.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>DIfferentColorLableText.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>4B7DA7E8F5510549E2D8572C5193645709EBC6B4</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/XiaStrong/DifferentColorTextLable.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>4B7DA7E8F5510549E2D8572C5193645709EBC6B4</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>4B7DA7E8F5510549E2D8572C5193645709EBC6B4</string>
+			<key>IDESourceControlWCCName</key>
+			<string>DifferentColorTextLable</string>
+		</dict>
+	</array>
+</dict>
+</plist>
